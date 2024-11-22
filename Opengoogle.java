@@ -152,7 +152,7 @@ public class Opengoogle {
 
 
 		driver.findElement(By.xpath("//*[@data-menu='logout']")).click();
-
+//quit the browser
 		driver.quit();
 }
 }
